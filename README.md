@@ -1,2 +1,3 @@
 # Weather-app
 Weather App created by me.
+Useed to practice my fullstack skills, html, css, javascript...
